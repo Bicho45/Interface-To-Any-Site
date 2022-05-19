@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="images">
+    <file>back.jpeg</file>
+    <file>Spring.jpeg</file>
+    <file>exit.jpeg</file>
+  </qresource>
+</RCC>
